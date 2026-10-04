@@ -14,12 +14,15 @@ The dataset used can be the **Bank Marketing dataset (UCI)** or an alternative d
 
 ## Visuals
 All generated plots are saved in the `visuals/` folder:
-- Decision Tree Diagram
-- Confusion Matrix
+
+Confusion Matrix:
+![Confusion Matrix](visuals/confusion_matrix.png)
+
+Decision Tree:
+![Decision Tree](visuals/decision_tree.png)
 
 ## Results
 - Accuracy score of the classifier
 - Insights from confusion matrix and classification report
 - Tree visualization for interpretability
 
-"# SCT_DS_3" 
